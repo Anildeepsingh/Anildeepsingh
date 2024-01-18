@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @Anildeepsingh
 - 👀 I’m interested in ...
-- 🌱 I’m currently learning prodect engineering (Frontend Developer)
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me anildeepsingh52@gmail.com
 
